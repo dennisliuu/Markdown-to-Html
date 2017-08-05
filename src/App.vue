@@ -141,7 +141,7 @@ body,
   padding: 30px;
   height: 100%;
   min-width: 470px;
-  line-height: 12px;
+  line-height: 2em;
 }
 
 textarea {
