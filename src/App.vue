@@ -4,7 +4,8 @@
       <i class="announcement top aligned icon"></i>
       <div class="content">
         <a href="https://wastemobile.gitbooks.io/gitbook-chinese/content/format/markdown.html" target="__blank" class="unstyled">Markdown</a> to Html
-        <div class="sub header">%%%%%%</div>
+        <div class="sub header"><!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/dennisliuu/Markdown-to-Html" data-icon="octicon-star" aria-label="Star dennisliuu/Markdown-to-Html on GitHub">Star</a></div>
       </div>
     </div>
     <div class="container">
